@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+// import Observer from './pages/Observer';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
